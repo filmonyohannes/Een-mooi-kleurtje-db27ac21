@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+}
+
+h2{
+	color: blue;
+	font-size: x-large;
+
+}
+
+p {
+	color:orange;
+}
+
+title{
+	font-size: xx-large;
+}
+
+li{
+	font-size: large;
+	color:red;
+}
+ 
+ body{
+ 	background-color: green;
+ }
